@@ -1,3 +1,3 @@
-# Recipe-Website
+# Recipr
 
-a website that allow users to search and browse recipes by category.
+A web app that allows users to search and browse recipes by category.
